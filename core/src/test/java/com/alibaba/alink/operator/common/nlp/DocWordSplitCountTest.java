@@ -33,3 +33,4 @@ public class DocWordSplitCountTest extends AlinkTestBase {
 	}
 
 }
+
